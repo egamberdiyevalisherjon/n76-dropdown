@@ -72,6 +72,8 @@ a {
   position: relative;
 }
 
+/* new comment */
+
 .dropdown-menu {
   transition: all 0.3s ease-in;
   visibility: hidden;
